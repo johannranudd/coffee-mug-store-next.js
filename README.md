@@ -1,4 +1,4 @@
-# SP Johann Ranudd
+# Coffee mug store - Johann Ranudd
 
 ![image](https://johannranudd.netlify.app/images/coffee-shop.png)
 
