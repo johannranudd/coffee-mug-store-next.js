@@ -21,6 +21,10 @@ Clone the repo:
 
 ```bash
 git clone https://github.com/johannranudd/coffee-mug-store-next.js.git
+
+npm install
+# or
+yarn add
 ```
 
 ### Run
